@@ -1,0 +1,84 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Li, Q
+   Zhou, MX
+   Chhajed, S
+   Yu, FH
+   Chen, SX
+   Zhang, YP
+   Mou, ZL
+AF Li, Qi
+   Zhou, Mingxi
+   Chhajed, Shweta
+   Yu, Fahong
+   Chen, Sixue
+   Zhang, Yanping
+   Mou, Zhonglin
+TI N-hydroxypipecolic acid triggers systemic acquired resistance through
+   extracellular NAD(P)
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID GLYCEROLIPID METABOLISM; PYRIDINE-NUCLEOTIDES; DISEASE RESISTANCE;
+   ASPARTATE OXIDASE; METHYL SALICYLATE; GENE-EXPRESSION; PIPECOLIC ACID;
+   ACTIVATION; INDUCTION; PROTEIN
+AB Systemic acquired resistance (SAR) is a long-lasting broad-spectrum plant defense mechanism induced in distal systemic tissues by mobile signals generated at the primary infection site. Despite the discoveries of multiple potential mobile signals, how these signals cooperate to trigger downstream SAR signaling is unknown. Here, we show that endogenous extracellular nicotinamide adenine dinucleotide (phosphate) [eNAD(P)] accumulates systemically upon pathogen infection and that both eNAD(P) and the lectin receptor kinase (LecRK), LecRK-VI.2, are required in systemic tissues for the establishment of SAR. Moreover, putative mobile signals, e.g., N-hydroxypipecolic acid (NHP), trigger de novo systemic eNAD(P) accumulation largely through the respiratory burst oxidase homolog RBOHF-produced reactive oxygen species (ROS). Importantly, NHP-induced systemic immunity mainly depends on ROS, eNAD(P), LecRK-VI.2, and BAK1, indicating that NHP induces SAR primarily through the ROS-eNAD(P)-LecRK-VI.2/BAK1 signaling pathway. Our results suggest that mobile signals converge on eNAD(P) in systemic tissues to trigger SAR through LecRK-VI.2.
+   Systemic acquired resistance (SAR) is a plant immune response triggered by mobile signals generated at the primary infection site. Here the authors show that one such mobile signal, N-hydroxypipecolic acid, can trigger production of eNAD(P) that activates SAR through the LecRK-VI.2 receptor.
+C1 [Li, Qi; Zhou, Mingxi; Mou, Zhonglin] Univ Florida, Dept Microbiol & Cell Sci, POB 110700, Gainesville, FL 32611 USA.
+   [Zhou, Mingxi; Mou, Zhonglin] Univ Florida, Plant Mol & Cellular Biol Program, POB 110690, Gainesville, FL 32611 USA.
+   [Chhajed, Shweta] Univ Florida, Dept Biol, POB 118525, Gainesville, FL 32611 USA.
+   [Yu, Fahong; Zhang, Yanping] Univ Florida, Interdisciplinary Ctr Biotechnol Res, POB 103622, Gainesville, FL 32610 USA.
+   [Chen, Sixue] Univ Mississippi, Dept Biol, Oxford, MS 38677 USA.
+C3 State University System of Florida; University of Florida; State
+   University System of Florida; University of Florida; State University
+   System of Florida; University of Florida; State University System of
+   Florida; University of Florida; University of Mississippi
+RP Mou, ZL (corresponding author), Univ Florida, Dept Microbiol & Cell Sci, POB 110700, Gainesville, FL 32611 USA.; Mou, ZL (corresponding author), Univ Florida, Plant Mol & Cellular Biol Program, POB 110690, Gainesville, FL 32611 USA.
+EM zhlmou@ufl.edu
+RI Li, Qi/AHD-9922-2022; Zhang, Yanping/GNP-7511-2022
+OI Chhajed, Shweta/0000-0003-4234-1113; Zhang, Yanping/0000-0002-1680-7592;
+   Zhou, Mingxi/0009-0002-4824-2319; Li, Qi/0000-0002-7736-764X
+FU We thank Jeongim Kim for sharing the pOpON vector with us. We thank
+   Akira Mine for sharing with us the step-by-step protocol for generation
+   of the <italic>luxCDABE</italic>-tagged <italic>Psm</italic>
+   (<italic>Psm _lux</italic>). We thank Jeff Rollins, Jeo; University of
+   Florida Plant Molecular and Cellular Biology Program; NSF; USDA
+FX We thank Jeongim Kim for sharing the pOpON vector with us. We thank
+   Akira Mine for sharing with us the step-by-step protocol for generation
+   of the <ITALIC>luxCDABE</ITALIC>-tagged <ITALIC>Psm</ITALIC>
+   (<ITALIC>Psm _lux</ITALIC>). We thank Jeff Rollins, Jeongim Kim, and
+   Fiona M. Harris for their comments on this manuscript. M.Z. is partially
+   supported by a scholarship from the University of Florida Plant
+   Molecular and Cellular Biology Program. Q.L. was supported by grants
+   from NSF and USDA. M.Z. and Z.M. were partially supported by grants from
+   NSF and USDA.
+NR 67
+TC 10
+Z9 11
+U1 11
+U2 73
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD OCT 27
+PY 2023
+VL 14
+IS 1
+AR 6848
+DI 10.1038/s41467-023-42629-0
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA W4QW5
+UT WOS:001091497000014
+PM 37891163
+OA Green Published, gold
+DA 2024-12-10
+ER
+
+EF

@@ -1,0 +1,77 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Nair, A
+   Goyal, I
+   Voss, E
+   Mrozek, P
+   Prajapati, S
+   Thurow, C
+   Tietze, L
+   Tittmann, K
+   Gatz, C
+AF Nair, Aswin
+   Goyal, Isha
+   Voss, Edgar
+   Mrozek, Pascal
+   Prajapati, Sabin
+   Thurow, Corinna
+   Tietze, Lutz
+   Tittmann, Kai
+   Gatz, Christiane
+TI N-hydroxypipecolic acid-induced transcription requires the salicylic
+   acid signaling pathway at basal SA levels
+SO PLANT PHYSIOLOGY
+LA English
+DT Article
+ID SYSTEMIC ACQUIRED-RESISTANCE; PIPECOLIC ACID; DISEASE RESISTANCE;
+   MONOOXYGENASE FMO1; DEFENSE RESPONSES; DEFICIENT MUTANTS; NPR1;
+   BIOSYNTHESIS; PROTEIN; ISOCHORISMATE
+AB Systemic acquired resistance (SAR) is a plant immune response established in uninfected leaves after colonization of local leaves with biotrophic or hemibiotrophic pathogens. The amino acid-derived metabolite N-hydroxypipecolic acid (NHP) travels from infected to systemic leaves, where it activates salicylic acid (SA) biosynthesis through the isochorismate pathway. The resulting increased SA levels are essential for induction of a large set of SAR marker genes and full SAR establishment. In this study, we show that pharmacological treatment of Arabidopsis thaliana with NHP induces a subset of SAR-related genes even in the SA induction-deficient2 (sid2/isochorismate synthase1) mutant, which is devoid of NHP-induced SA. NHP-mediated induction is abolished in sid2-1 NahG plants, in which basal SA levels are degraded. The SA receptor NON-EXPRESSOR OF PATHOGENESIS-RELATED GENES1 (NPR1) and its interacting TGACG SEQUENCE-SPECIFIC BINDING PROTEIN (TGA) transcription factors are required for the NHP-mediated induction of SAR genes at resting SA levels. Isothermal titration analysis determined a K-D of 7.9 +/- 0.5 mu M for the SA/NPR1 complex, suggesting that basal levels of SA would not bind to NPR1 unless yet unknown potentially NHP-induced processes increase the affinity. Moreover, the nucleocytoplasmic protein PHYTOALEXIN DEFICIENT4 is required for a slight NHP-mediated increase in NPR1 protein levels and NHP-induced expression of SAR-related genes. Our experiments have unraveled that NHP requires basal SA and components of the SA signaling pathway to induce SAR genes. Still, the mechanism of NHP perception remains enigmatic.
+C1 [Nair, Aswin; Goyal, Isha; Mrozek, Pascal; Thurow, Corinna; Gatz, Christiane] Georg August Univ Gottingen, Albrecht von Haller Inst Plant Sci, Dept Plant Mol Biol & Physiol, Julia Lermontowa Weg 3, D-37077 Gottingen, Germany.
+   [Voss, Edgar; Tietze, Lutz] Georg August Univ Gottingen, Inst Organ & Biomol Chem, Tammannstr 2, D-37077 Gottingen, Germany.
+   [Prajapati, Sabin; Tittmann, Kai] Georg August Univ Gottingen, Gottingen Ctr Mol Biosci, Dept Mol Enzymol, Julia Lermontowa Weg 3, D-37077 Gottingen, Germany.
+   [Prajapati, Sabin; Tittmann, Kai] Georg August Univ Gottingen, Albrecht von Haller Inst, Julia Lermontowa Weg 3, D-37077 Gottingen, Germany.
+   [Prajapati, Sabin; Tittmann, Kai] Max Planck Inst Biophys Chem, Dept Struct Dynam, Fassberg 11, D-37077 Gottingen, Germany.
+C3 University of Gottingen; University of Gottingen; University of
+   Gottingen; University of Gottingen; Max Planck Society
+RP Gatz, C (corresponding author), Georg August Univ Gottingen, Albrecht von Haller Inst Plant Sci, Dept Plant Mol Biol & Physiol, Julia Lermontowa Weg 3, D-37077 Gottingen, Germany.
+EM cgatz@gwdg.de
+RI Goyal, Isha/JTV-0771-2023
+OI Nair, Aswin/0000-0002-1194-6083; Tittmann, Kai/0000-0001-7891-7108;
+   Mrozek, Pascal/0000-0001-5914-391X; Goyal, Isha/0000-0002-9221-8546
+FU Deutsche Forschungsgemeinschaft (DFG) [IRTG 2172 "PRoTECT"]
+FX A.N. and I.G. were funded by the Deutsche Forschungsgemeinschaft (DFG,
+   IRTG 2172 "PRoTECT").
+NR 59
+TC 14
+Z9 16
+U1 2
+U2 29
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0032-0889
+EI 1532-2548
+J9 PLANT PHYSIOL
+JI Plant Physiol.
+PD DEC
+PY 2021
+VL 187
+IS 4
+BP 2803
+EP 2819
+DI 10.1093/plphys/kiab433
+EA SEP 2021
+PG 17
+WC Plant Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Plant Sciences
+GA XT2DC
+UT WOS:000733403700065
+PM 34890459
+OA Green Published, Bronze
+DA 2024-12-10
+ER
+
+EF

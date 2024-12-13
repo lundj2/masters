@@ -1,0 +1,79 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cai, JH
+   Jozwiak, A
+   Holoidovsky, L
+   Meijler, MM
+   Meir, S
+   Rogachev, I
+   Aharoni, A
+AF Cai, Jianghua
+   Jozwiak, Adam
+   Holoidovsky, Lara
+   Meijler, Michael M.
+   Meir, Sagit
+   Rogachev, Ilana
+   Aharoni, Asaph
+TI Glycosylation of <i>N</i>-hydroxy-pipecolic acid equilibrates between
+   systemic acquired resistance response and plant growth
+SO MOLECULAR PLANT
+LA English
+DT Article
+DE N-hydroxy-pipecolic acid; N-hydroxy-pipecolic acid glycoside;
+   UDP-glycosyltransferase; glycosylation; systemic acquired resistance;
+   plant growth
+AB N-hydroxy-pipecolic acid (NHP) activates plant systemic acquired resistance (SAR). Enhanced defense responses are typically accompanied by deficiency in plant development and reproduction. Despite of extensive studies on SAR induction, the effects of NHP metabolism on plant growth remain largely unclear. In this study, we discovered that NHP glycosylation is a critical factor that fine-tunes the tradeoff between SAR defense and plant growth. We demonstrated that a UDP-glycosyltransferase (UGT76B1) forming NHP glycoside (NHPG) controls the NHP to NHPG ratio. Consistently, the ugt76b1 mutant exhibits enhanced SAR response and an inhibitory effect on plant growth, while UGT76B1 overexpression attenuates SAR response, promotes growth, and delays senescence, indicating that NHP levels are dependent on UGT76B1 function in the course of SAR. Furthermore, our results suggested that, upon pathogen attack, UGT76B1-mediated NHP glycosylation forms a "hand brake" on NHP accumulation by attenuating the positive regulation of NHP biosynthetic pathway genes, highlighting the complexity of SAR-associated networks. In addition, we showed that UGT76B1-mediated NHP glycosylation in the local site is important for fine-tuning SAR response. Our results implicate that engineering plant immunity through manipulating the NHP/NHPG ratio is a promising method to balance growth and defense response in crops.
+C1 [Cai, Jianghua; Jozwiak, Adam; Meir, Sagit; Rogachev, Ilana; Aharoni, Asaph] Weizmann Inst Sci, Dept Plant & Environm Sci, IL-761001 Rehovot, Israel.
+   [Holoidovsky, Lara; Meijler, Michael M.] Ben Gurion Univ Negev, Dept Chem, IL-8410501 Beer Sheva, Israel.
+   [Holoidovsky, Lara; Meijler, Michael M.] Ben Gurion Univ Negev, Natl Inst Biotechnol Negev, IL-8410501 Beer Sheva, Israel.
+C3 Weizmann Institute of Science; Ben Gurion University; Ben Gurion
+   University
+RP Aharoni, A (corresponding author), Weizmann Inst Sci, Dept Plant & Environm Sci, IL-761001 Rehovot, Israel.
+EM asaph.aharoni@weizmann.ac.il
+RI aharoni, asaph/W-6670-2019; Jozwiak, Adam/E-7717-2011
+OI Meijler, Michael/0000-0001-7095-1467; Ron Kholoidovsky,
+   Larysa/0000-0002-5888-932X
+FU Adelis Foundation; Leona M. and Harry B. Helmsley Charitable Trust;
+   Jeanne and Joseph Nissim Foundation for Life Sciences; Tom and Sondra
+   Rykoff Family Foundation Research; PBC (Public and Budgeting Committee)
+   of the State of Israel Council for Higher Education
+FX We are grateful to the Adelis Foundation, the Leona M. and Harry B.
+   Helmsley Charitable Trust, the Jeanne and Joseph Nissim Foundation for
+   Life Sciences, and especially the Tom and Sondra Rykoff Family
+   Foundation Research for supporting the A.A. laboratory activity. J.C.
+   was supported by the PBC (Public and Budgeting Committee) of the State
+   of Israel Council for Higher Education fellowship program. A.A. is the
+   incumbent of the Peter J. Cohn Professorial Chair.
+NR 63
+TC 45
+Z9 48
+U1 10
+U2 83
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+SN 1674-2052
+EI 1752-9867
+J9 MOL PLANT
+JI Mol. Plant.
+PD MAR 1
+PY 2021
+VL 14
+IS 3
+BP 440
+EP 455
+DI 10.1016/j.molp.2020.12.018
+EA MAR 2021
+PG 16
+WC Biochemistry & Molecular Biology; Plant Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Plant Sciences
+GA QR3JL
+UT WOS:000625108600010
+PM 33387676
+OA Bronze
+DA 2024-12-10
+ER
+
+EF

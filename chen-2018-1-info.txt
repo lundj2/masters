@@ -1,0 +1,86 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chen, YC
+   Holmes, EC
+   Rajniak, J
+   Kim, JG
+   Tang, S
+   Fischer, CR
+   Mudgett, MB
+   Sattely, ES
+AF Chen, Yun-Chu
+   Holmes, Eric C.
+   Rajniak, Jakub
+   Kim, Jung-Gun
+   Tang, Sandy
+   Fischer, Curt R.
+   Mudgett, Mary Beth
+   Sattely, Elizabeth S.
+TI <i>N</i>-hydroxy-pipecolic acid is a mobile metabolite that induces
+   systemic disease resistance in <i>Arabidopsis</i>
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE systemic acquired resistance; signaling; plant natural products;
+   Arabidopsis thaliana; N-hydroxy-pipecolic acid
+ID ACQUIRED-RESISTANCE; PLANT IMMUNITY; SALICYLIC-ACID;
+   PSEUDOMONAS-SYRINGAE; MONOOXYGENASE FMO1; DEFENSE; BIOSYNTHESIS;
+   RECOGNITION; PATHOGENS; RESPONSES
+AB Systemic acquired resistance (SAR) is a global response in plants induced at the site of infection that leads to long-lasting and broad-spectrum disease resistance at distal, uninfected tissues. Despite the importance of this priming mechanism, the identity and complexity of defense signals that are required to initiate SAR signaling is not well understood. In this paper, we describe a metabolite, N-hydroxy-pipecolic acid (N-OH-Pip) and provide evidence that this mobile molecule plays a role in initiating SAR signal transduction in Arabidopsis thaliana. We demonstrate that FLAVIN-DEPENDENT MONOOXYGENASE 1 (FMO1), a key regulator of SAR-associated defense priming, can synthesize N-OH-Pip from pipecolic acid in planta, and exogenously applied N-OH-Pip moves systemically in Arabidopsis and can rescue the SAR-deficiency of fmo1 mutants. We also demonstrate that N-OH-Pip treatment causes systemic changes in the expression of pathogenesis-related genes and metabolic pathways throughout the plant and enhances resistance to a bacterial pathogen. This work provides insight into the chemical nature of a signal for SAR and also suggests that the N-OH-Pip pathway is a promising target for metabolic engineering to enhance disease resistance.
+C1 [Chen, Yun-Chu; Kim, Jung-Gun; Mudgett, Mary Beth] Stanford Univ, Dept Biol, Stanford, CA 94305 USA.
+   [Holmes, Eric C.; Rajniak, Jakub; Tang, Sandy; Sattely, Elizabeth S.] Stanford Univ, Dept Chem Engn, Stanford, CA 94305 USA.
+   [Fischer, Curt R.] Stanford Univ, Chem Engn & Med Human Hlth, Stanford, CA 94305 USA.
+C3 Stanford University; Stanford University; Stanford University
+RP Mudgett, MB (corresponding author), Stanford Univ, Dept Biol, Stanford, CA 94305 USA.; Sattely, ES (corresponding author), Stanford Univ, Dept Chem Engn, Stanford, CA 94305 USA.
+EM mudgett@stanford.edu; sattely@stanford.edu
+RI Holmes, Edward/GVR-9499-2022
+OI Rajniak, Jakub/0000-0003-2124-0647; Chen, Yun-Chu/0000-0002-1091-539X;
+   Holmes, Eric/0000-0001-5637-0404; Sattely,
+   Elizabeth/0000-0002-7352-859X; Fischer, Curt/0000-0003-3386-9813
+FU HHMI [55108565]; Simons Foundation [55108565]; NIH DP2 Grant [AT008321];
+   National Science Foundation Graduate Research Fellowship [DGE-1656518];
+   National Science Foundation Grant [IOS-1555957]; Binational Science
+   Foundation Grant [2011069]; Ministry of Science and Technology of Taiwan
+   Grant [105-2917-I-564-093]
+FX We thank Russ Li and Russ Stabler for assistance preparing synthetic
+   N-OH-Pip and George Lomonossoff (John Innes Centre) for providing pEAQ
+   plasmid. This work was supported by an HHMI and Simons Foundation Grant
+   55108565 (to E.S.S.), NIH DP2 Grant AT008321 (to E.S.S.), National
+   Science Foundation Graduate Research Fellowship DGE-1656518 (to E.C.H.),
+   National Science Foundation Grant IOS-1555957 (to M.B.M.), Binational
+   Science Foundation Grant 2011069 (to M.B.M.), and Ministry of Science
+   and Technology of Taiwan Grant 105-2917-I-564-093 (to Y.-C.C.).
+NR 46
+TC 195
+Z9 208
+U1 5
+U2 114
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAY 22
+PY 2018
+VL 115
+IS 21
+BP E4920
+EP E4929
+DI 10.1073/pnas.1805291115
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA GG4JN
+UT WOS:000432663000024
+PM 29735713
+OA Green Published, Bronze, Green Submitted
+HC Y
+HP N
+DA 2024-12-10
+ER
+
+EF

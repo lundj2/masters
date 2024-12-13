@@ -1,0 +1,61 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Foret, J
+   Kim, JG
+   Sattely, ES
+   Mudgett, MB
+AF Foret, Jessica
+   Kim, Jung-Gun
+   Sattely, Elizabeth S.
+   Mudgett, Mary Beth
+TI Transcriptome analysis reveals role of transcription factor WRKY70 in
+   early N-hydroxy-pipecolic acid signaling
+SO PLANT PHYSIOLOGY
+LA English
+DT Article; Early Access
+ID SYSTEMIC ACQUIRED-RESISTANCE; SALICYLIC-ACID; HYDROXYPIPECOLIC ACID;
+   MONOOXYGENASE FMO1; PROTEIN; IMMUNITY; RECEPTOR; GENE; FAMILY; NPR1
+AB N-Hydroxy-pipecolic acid (NHP) is a mobile metabolite essential for inducing and amplifying systemic acquired resistance (SAR) following a pathogen attack. Early phases of NHP signaling leading to immunity have remained elusive. Here, we report the early transcriptional changes mediated by NHP and the role salicylic acid (SA) plays during this response in Arabidopsis ( Arabidopsis thaliana). We show that distinct waves of expression within minutes to hours of NHP treatment include increased expression of WRKY transcription factor genes as the primary transcriptional response, followed by the induction of WRKY-regulated defense genes as the secondary response. Most genes induced by NHP within minutes were SA dependent, whereas those induced within hours were SA independent. These data suggest that NHP induces the primary transcriptional response under basal levels of SA and that new SA biosynthesis via ISOCHORISMATE SYNTHASE 1/SA-INDUCTION DEFICIENT 2 is dispensable for inducing the secondary transcriptional response. We demonstrate that WRKY70 is required for the induced expression of a set of genes defining some of the secondary transcriptional response, SAR protection, and NHP-dependent enhancement of reactive oxygen species production in response to flagellin treatment. Our study highlights the key genes and pathways defining early NHP responses and the role of WRKY70 in regulating NHP-dependent transcription.
+C1 [Foret, Jessica; Kim, Jung-Gun; Mudgett, Mary Beth] Stanford Univ, Dept Biol, Stanford, CA 94305 USA.
+   [Sattely, Elizabeth S.] Stanford Univ, Dept Chem Engn, Stanford, CA 94305 USA.
+   [Sattely, Elizabeth S.] Stanford Univ, Howard Hughes Med Inst, Stanford, CA 94305 USA.
+C3 Stanford University; Stanford University; Howard Hughes Medical
+   Institute; Stanford University
+RP Mudgett, MB (corresponding author), Stanford Univ, Dept Biol, Stanford, CA 94305 USA.
+EM mudgett@stanford.edu
+OI Sattely, Elizabeth/0000-0002-7352-859X; Foret,
+   Jessica/0009-0004-6149-9180; Mudgett, Mary Beth/0000-0003-0570-2776
+FU National Science Foundation [IOS- 2026368]; National Science Foundation
+   Graduate Research Fellowship [DGE-1656518]
+FX This work was supported by National Science Foundation IOS- 2026368 (to
+   M.B.M. and E.S.S) and National Science Foundation Graduate Research
+   Fellowship DGE-1656518 (to J.F.).
+NR 76
+TC 0
+Z9 0
+U1 9
+U2 9
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0032-0889
+EI 1532-2548
+J9 PLANT PHYSIOL
+JI Plant Physiol.
+PD 2024 OCT 25
+PY 2024
+DI 10.1093/plphys/kiae544
+EA OCT 2024
+PG 19
+WC Plant Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Plant Sciences
+GA K2S2F
+UT WOS:001342419400001
+PM 39404105
+OA hybrid
+DA 2024-12-10
+ER
+
+EF

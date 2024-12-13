@@ -1,0 +1,81 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yildiz, I
+   Mantz, M
+   Hartmann, M
+   Zeier, T
+   Kessel, J
+   Thurow, C
+   Gatz, C
+   Petzsch, P
+   Köhrer, K
+   Zeier, J
+AF Yildiz, Ipek
+   Mantz, Melissa
+   Hartmann, Michael
+   Zeier, Tatyana
+   Kessel, Jana
+   Thurow, Corinna
+   Gatz, Christiane
+   Petzsch, Patrick
+   Kohrer, Karl
+   Zeier, Juergen
+TI The mobile SAR signal N-hydroxypipecolic acid induces NPR1-dependent
+   transcriptional reprogramming and immune priming
+SO PLANT PHYSIOLOGY
+LA English
+DT Article
+ID SYSTEMIC ACQUIRED-RESISTANCE; HYDROXY-PIPECOLIC ACID; PROGRAMMED
+   CELL-DEATH; RECEPTOR-LIKE KINASE; SALICYLIC-ACID; DISEASE RESISTANCE;
+   BIOSYNTHESIS; DEFENSE; PROTEIN; NPR1
+AB N-hydroxypipecolic acid (NHP) accumulates in the plant foliage in response to a localized microbial attack and induces systemic acquired resistance (SAR) in distant leaf tissue. Previous studies indicated that pathogen inoculation of Arabidopsis (Arabidopsis thaliana) systemically activates SAR-related transcriptional reprogramming and a primed immune status in strict dependence of FLAVIN-DEPENDENT MONOOXYGENASE 1 (FMO1), which mediates the endogenous biosynthesis of NHP. Here, we show that elevations of NHP by exogenous treatment are sufficient to induce a SAR-reminiscent transcriptional response that mobilizes key components of immune surveillance and signal transduction. Exogenous NHP primes Arabidopsis wild-type and NHP-deficient fmo1 plants for a boosted induction of pathogen-triggered defenses, such as the biosynthesis of the stress hormone salicylic acid (SA), accumulation of the phytoalexin camalexin and branched-chain amino acids, as well as expression of defense-related genes. NHP also sensitizes the foliage systemically for enhanced SA-inducible gene expression. NHP-triggered SAR, transcriptional reprogramming, and defense priming are fortified by SA accumulation, and require the function of the transcriptional coregulator NON-EXPRESSOR OF PR GENES1 (NPR1). Our results suggest that NPR1 transduces NHP-activated immune signaling modes with predominantly SA-dependent and minor SA-independent features. They further support the notion that NHP functions as a mobile immune regulator capable of moving independently of active SA signaling between leaves to systemically activate immune responses.
+C1 [Yildiz, Ipek; Mantz, Melissa; Hartmann, Michael; Zeier, Tatyana; Kessel, Jana; Zeier, Juergen] Heinrich Heine Univ, Inst Mol Ecophysiol Plants, Dept Biol, D-40225 Dusseldorf, Germany.
+   [Thurow, Corinna; Gatz, Christiane] Univ Gottingen, Albrecht Von Haller Inst Plant Sci, Dept Plant Mol Biol & Physiol, D-37077 Gottingen, Germany.
+   [Petzsch, Patrick; Kohrer, Karl] Heinrich Heine Univ, Med Fac, Biol & Med Res Ctr BMFZ, D-40225 Dusseldorf, Germany.
+   [Zeier, Juergen] Cluster Excellence Plant Sci CEPLAS, D-40225 Dusseldorf, Germany.
+C3 Heinrich Heine University Dusseldorf; University of Gottingen; Heinrich
+   Heine University Dusseldorf; University of Cologne
+RP Zeier, J (corresponding author), Heinrich Heine Univ, Inst Mol Ecophysiol Plants, Dept Biol, D-40225 Dusseldorf, Germany.; Zeier, J (corresponding author), Cluster Excellence Plant Sci CEPLAS, D-40225 Dusseldorf, Germany.
+EM juergen.zeier@hhu.de
+RI Hartmann, Michael/ITV-8252-2023
+OI Hartmann, Michael/0000-0003-4828-958X; yildiz, ipek/0000-0002-9949-0358;
+   Mantz, Melissa/0000-0001-7254-5331; Zeier, Jurgen/0000-0002-8703-5403;
+   /0000-0002-8355-5524
+FU Deutsche Forschungsgemeinschaft (DFG; German Research Foundation) by the
+   DFG [ZE467/62, EXC 2048/1 - 390686111]
+FX This work was funded via the Deutsche Forschungsgemeinschaft (DFG;
+   German Research Foundation) by the DFG grant ZE467/62 to J.Z., and
+   supported within Germany's Excellence Strategy (EXC 2048/1 - 390686111).
+NR 81
+TC 43
+Z9 49
+U1 4
+U2 37
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0032-0889
+EI 1532-2548
+J9 PLANT PHYSIOL
+JI Plant Physiol.
+PD JUL
+PY 2021
+VL 186
+IS 3
+BP 1679
+EP 1705
+DI 10.1093/plphys/kiab166
+EA APR 2021
+PG 27
+WC Plant Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Plant Sciences
+GA TL3GM
+UT WOS:000674744100031
+PM 33871649
+OA hybrid, Green Published
+DA 2024-12-10
+ER
+
+EF

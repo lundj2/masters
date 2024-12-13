@@ -1,0 +1,85 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Schnake, A
+   Hartmann, M
+   Schreiber, S
+   Malik, J
+   Brahmann, L
+   Yildiz, I
+   von Dahlen, J
+   Rose, LE
+   Schaffrath, U
+   Zeier, J
+AF Schnake, Anika
+   Hartmann, Michael
+   Schreiber, Stefan
+   Malik, Jana
+   Brahmann, Lisa
+   Yildiz, Ipek
+   von Dahlen, Janina
+   Rose, Laura E.
+   Schaffrath, Ulrich
+   Zeier, Juergen
+TI Inducible biosynthesis and immune function of the systemic acquired
+   resistance inducer <i>N</i>-hydroxypipecolic acid in monocotyledonous
+   and dicotyledonous plants
+SO JOURNAL OF EXPERIMENTAL BOTANY
+LA English
+DT Article
+DE Brachypodium; cucumber; Magnaporthe; N-hydroxypipecolic acid; pipecolic
+   acid; plant immunity; Pseudomonas; salicylic acid; systemic acquired
+   resistance; tobacco
+ID SALICYLIC-ACID; PIPECOLIC ACID; DISEASE RESISTANCE; BASAL IMMUNITY;
+   INDUCTION; INFECTION; CUCUMBER; DEFENSE; BARLEY; BRACHYPODIUM
+AB Recent work has provided evidence for the occurrence of N-hydroxypipecolic acid (NHP) in Arabidopsis thaliana, characterized its pathogen-inducible biosynthesis by a three-step metabolic sequence from l-lysine, and established a central role for NHP in the regulation of systemic acquired resistance. Here, we show that NHP is biosynthesized in several other plant species in response to microbial attack, generally together with its direct metabolic precursor pipecolic acid and the phenolic immune signal salicylic acid. For example, NHP accumulates locally in inoculated leaves and systemically in distant leaves of cucumber in response to Pseudomonas syringae attack, in Pseudomonaschallenged tobacco and soybean leaves, in tomato inoculated with the oomycete Phytophthora infestans, in leaves of the monocot Brachypodium distachyon infected with bacterial (Xanthomonas translucens) and fungal (Magnaporthe oryzae) pathogens, and in M. oryzae-inoculated barley. Notably, resistance assays indicate that NHP acts as a potent inducer of acquired resistance to bacterial and fungal infection in distinct monocotyledonous and dicotyledonous species. Pronounced systemic accumulation of NHP in leaf phloem sap of locally inoculated cucumber supports a function for NHP as a phloem-mobile immune signal. Our study thus generalizes the existence and function of an NHP resistance pathway in plant systemic acquired resistance.
+C1 [Schnake, Anika; Hartmann, Michael; Schreiber, Stefan; Malik, Jana; Brahmann, Lisa; Yildiz, Ipek; Zeier, Juergen] Heinrich Heine Univ, Inst Mol Ecophysiol Plants, Dept Biol, Univ Str 1, D-40225 Dusseldorf, Germany.
+   [von Dahlen, Janina; Rose, Laura E.] Heinrich Heine Univ, Inst Populat Genet, Dept Biol, Univ Str 1, D-40225 Dusseldorf, Germany.
+   [Schaffrath, Ulrich] Rhein Westfal TH Aachen, Dept Plant Physiol, D-52056 Aachen, Germany.
+   [Rose, Laura E.; Zeier, Juergen] Heinrich Heine Univ, Cluster Excellence Plant Sci CEPLAS, Univ Str 1, D-40225 Dusseldorf, Germany.
+C3 Heinrich Heine University Dusseldorf; Heinrich Heine University
+   Dusseldorf; RWTH Aachen University; University of Cologne; Heinrich
+   Heine University Dusseldorf
+RP Zeier, J (corresponding author), Heinrich Heine Univ, Inst Mol Ecophysiol Plants, Dept Biol, Univ Str 1, D-40225 Dusseldorf, Germany.; Zeier, J (corresponding author), Heinrich Heine Univ, Cluster Excellence Plant Sci CEPLAS, Univ Str 1, D-40225 Dusseldorf, Germany.
+EM juergen.zeier@hhu.de
+RI Hartmann, Michael/ITV-8252-2023; Schaffrath, Ulrich/E-7252-2014
+OI Zeier, Jurgen/0000-0002-8703-5403
+FU Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)
+   [ZE467/6-2]; Germany's Excellence Strategy - EXC-2048/1 [390686111]
+FX We thank Grzegorz Bartoszewski and Nick Talbot for kindly providing
+   Pseudomonas syringae pv. lachrymans strain 814/98 and Magnaporthe oryzae
+   strain Guy11, respectively. This work was funded by the Deutsche
+   Forschungsgemeinschaft (DFG, German Research Foundation) via a grant to
+   JZ (ZE467/6-2) and Germany's Excellence Strategy - EXC-2048/1 (project
+   ID 390686111).
+NR 56
+TC 36
+Z9 39
+U1 6
+U2 25
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0022-0957
+EI 1460-2431
+J9 J EXP BOT
+JI J. Exp. Bot.
+PD OCT 22
+PY 2020
+VL 71
+IS 20
+BP 6444
+EP 6459
+DI 10.1093/jxb/eraa317
+PG 16
+WC Plant Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Plant Sciences
+GA PP6QB
+UT WOS:000605983900022
+PM 32725118
+OA Green Published, hybrid
+DA 2024-12-10
+ER
+
+EF
